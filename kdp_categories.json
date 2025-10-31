@@ -1,0 +1,34 @@
+{
+  "Fiction": [
+    "Fantasy",
+    "Science Fiction",
+    "Mystery",
+    "Romance",
+    "Thriller",
+    "Adventure",
+    "Historical",
+    "Horror"
+  ],
+  "Non-Fiction": [
+    "Biography",
+    "Self-Help",
+    "Health & Fitness",
+    "Travel",
+    "Business",
+    "Education",
+    "Cooking",
+    "Parenting"
+  ],
+  "Children": [
+    "Picture Books",
+    "Early Readers",
+    "Chapter Books",
+    "Young Adult"
+  ],
+  "Comics & Graphic Novels": [
+    "Manga",
+    "Superhero",
+    "Fantasy Comics",
+    "Humor Comics"
+  ]
+}
